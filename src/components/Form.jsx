@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Form = ({ CalBmi, weight, setWeight, height, setHeight, reload, weightUnit, heightUnit, setHeightUnit, setWeightUnit }) => {
-    console.log(heightUnit, weightUnit)
+   
     return (
         <div>
             <form onSubmit={CalBmi}>
