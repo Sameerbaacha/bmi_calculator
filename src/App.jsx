@@ -60,8 +60,8 @@ function App() {
   };
 
   return (
-    <div className="flex justify-center items-center min-h-screen  bg-gradient-to-r from-black via-gray-700 to-gray-200 p-0  font-sans ">
-      <div className="shadow-black shadow-lg  rounded-md p-6 bg-white md:p-5 sm:p-8 text-center w-[95%] sm:w-[80%] md:w-[60%] lg:w-[42%]">
+    <div className="flex justify-center items-center min-h-screen  bg-gradient-to-r from-black via-gray-700 to-gray-200 p-3  font-sans ">
+      <div className="shadow-black shadow-lg  rounded-md p-6 bg-white md:p-4  sm:p-8 text-center w-[95%] sm:w-[80%] md:w-[60%] lg:w-[42%]">
         <div className="flex justify-center items-center ">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-neutral-500 via-gray-800 to-gray-500 bg-clip-text text-transparent">
             BMI Calculator
